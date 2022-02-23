@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":11,"consumable":true,"damage":{"critical":false,"elementId":1,"formula":"b.hp-a.atk","type":1,"variance":50},"description":"","effects":[],"hitType":1,"iconIndex":107,"itypeId":1,"name":"Ξιφολόγχη","note":"","occasion":1,"price":0,"repeats":3,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":21,"consumable":true,"damage":{"critical":false,"elementId":1,"formula":"b.hp-a.atk*2","type":1,"variance":20},"description":"","effects":[],"hitType":1,"iconIndex":118,"itypeId":1,"name":"Διατρητικό Βλήμμα","note":"","occasion":0,"price":0,"repeats":1,"scope":1,"speed":0,"successRate":100,"tpGain":0},
+{"id":3,"animationId":1,"consumable":true,"damage":{"critical":false,"elementId":1,"formula":"b.hp-a.atk","type":1,"variance":35},"description":"","effects":[],"hitType":1,"iconIndex":78,"itypeId":1,"name":"Βλήμμα","note":"","occasion":0,"price":0,"repeats":1,"scope":1,"speed":0,"successRate":100,"tpGain":0},
+{"id":4,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":96,"itypeId":1,"name":"Μαχαίρι","note":"","occasion":0,"price":0,"repeats":1,"scope":1,"speed":0,"successRate":100,"tpGain":0},
+{"id":5,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"Ένας φάκελος εμπιστευτικού περιεχομένου για τον\nστρατηγό Βενιέρη.","effects":[],"hitType":0,"iconIndex":229,"itypeId":2,"name":"Φάκελος","note":"","occasion":2,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0}
+]

@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":2,"value":0.05}],"iconIndex":97,"name":"Παλιό Ατσάλινο Ξίφος","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":1},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":2,"value":0.2},{"code":34,"dataId":0,"value":1}],"iconIndex":123,"name":"Σπάθα","note":"","params":[0,0,15,0,0,0,0,0],"price":500,"wtypeId":1},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":2,"value":0.1}],"iconIndex":116,"name":"Τουφέκι","note":"","params":[0,0,20,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":2,"value":0.15}],"iconIndex":96,"name":"Διπλά Στιλέτα","note":"","params":[0,0,10,0,0,0,5,5],"price":500,"wtypeId":4},
+{"id":5,"animationId":36,"description":"","etypeId":1,"traits":[{"code":41,"dataId":3,"value":1},{"code":43,"dataId":4,"value":1}],"iconIndex":80,"name":"Τενόρο Κορνέτο","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":3},
+{"id":6,"animationId":36,"description":"","etypeId":1,"traits":[{"code":41,"dataId":3,"value":1},{"code":43,"dataId":5,"value":1}],"iconIndex":80,"name":"Κυρτό Κορνέτο","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":3},
+{"id":7,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.1}],"iconIndex":96,"name":"Μαχαίρι","note":"","params":[0,0,5,0,0,0,0,0],"price":0,"wtypeId":4}
+]
